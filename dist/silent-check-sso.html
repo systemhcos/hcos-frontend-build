@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keycloak Silent SSO</title>
+</head>
+<body>
+    <script>
+        // This page is loaded in a hidden iframe by Keycloak for silent SSO check.
+        // It simply passes the response back to the parent window.
+        parent.postMessage(location.href, location.origin);
+    </script>
+</body>
+</html>

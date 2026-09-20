@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" fill="none">
+  <!-- Soft grey background circle -->
+  <circle cx="36" cy="36" r="34" fill="#f3f4f6" stroke="#d1d5db" stroke-width="2"/>
+  <!-- Image frame icon -->
+  <rect x="16" y="22" width="40" height="30" rx="3" stroke="#9ca3af" stroke-width="2.5" fill="#e5e7eb"/>
+  <!-- Mountain / landscape shape -->
+  <polyline points="16,46 26,34 33,41 41,31 56,46" fill="#d1d5db" stroke="none"/>
+  <polyline points="16,46 26,34 33,41 41,31 56,46" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Sun circle -->
+  <circle cx="46" cy="31" r="4" fill="#d1d5db" stroke="#9ca3af" stroke-width="1.5"/>
+</svg>
