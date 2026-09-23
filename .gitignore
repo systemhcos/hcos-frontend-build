@@ -1,8 +1,0 @@
-# Ignore everything in the root directory
-/*
-
-# Un-ignore the .gitignore file itself
-!.gitignore
-
-# Un-ignore the dist directory and its contents
-!dist/
